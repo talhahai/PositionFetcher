@@ -1,0 +1,14 @@
+D:\BSCS\Semester 5\PositionFetcher\obj\Debug\ResolveAssemblyReference.cache
+D:\BSCS\Semester 5\PositionFetcher\obj\Debug\PositionFetcher.Form1.resources
+D:\BSCS\Semester 5\PositionFetcher\obj\Debug\PositionFetcher.Properties.Resources.resources
+D:\BSCS\Semester 5\PositionFetcher\obj\Debug\PositionFetcher.csproj.GenerateResource.Cache
+D:\BSCS\Semester 5\PositionFetcher\bin\Debug\PositionFetcher.exe
+D:\BSCS\Semester 5\PositionFetcher\bin\Debug\PositionFetcher.pdb
+D:\BSCS\Semester 5\PositionFetcher\obj\Debug\PositionFetcher.exe
+D:\BSCS\Semester 5\PositionFetcher\obj\Debug\PositionFetcher.pdb
+D:\BSCS\Projects\Position Fetcher\obj\Debug\PositionFetcher.exe
+D:\BSCS\Projects\Position Fetcher\obj\Debug\PositionFetcher.pdb
+D:\BSCS\Projects\Position Fetcher\obj\Debug\PositionFetcher.csprojResolveAssemblyReference.cache
+D:\BSCS\Projects\Position Fetcher\obj\Debug\PositionFetcher.Form1.resources
+D:\BSCS\Projects\Position Fetcher\obj\Debug\PositionFetcher.csproj.GenerateResource.Cache
+D:\BSCS\Projects\Position Fetcher\obj\Debug\PositionFetcher.Properties.Resources.resources
